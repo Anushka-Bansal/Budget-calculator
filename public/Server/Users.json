@@ -1,0 +1,67 @@
+{
+  "Users": [
+    {
+      "fname": "Anushka",
+      "lname": "Bansal",
+      "uname": "AnuBan",
+      "email": "anushka@gmail.com",
+      "password": "Anu@1234",
+      "confirm": "Anu@1234",
+      "id": 1
+    },
+    {
+      "fname": "Neha",
+      "lname": "Deore",
+      "uname": "NehaDeore",
+      "email": "n@gmail.com",
+      "password": "Bansal@1234",
+      "confirm": "Bansal@1234",
+      "id": 2
+    },
+    {
+      "fname": "Komal",
+      "lname": "Patel",
+      "uname": "KomPat",
+      "email": "K@gmail.com",
+      "password": "Anu@1234",
+      "confirm": "Anu@1234",
+      "id": 3
+    },
+    {
+      "fname": "Karishma",
+      "lname": "Raipure",
+      "uname": "KarRai",
+      "email": "ka@gmail.com",
+      "password": "Bansal@1234",
+      "confirm": "Bansal@1234",
+      "id": 4
+    },
+    {
+      "fname": "Bhavya",
+      "lname": "Mullapudi",
+      "uname": "BhavyaM",
+      "email": "b@gmail.com",
+      "password": "Anu@1234",
+      "confirm": "Anu@1234",
+      "id": 5
+    },
+    {
+      "fname": "Sandesh",
+      "lname": "Umathe",
+      "uname": "SandeshGyani",
+      "email": "s@gmail.com",
+      "password": "Anu@1234",
+      "confirm": "Anu@1234",
+      "id": 6
+    },
+    {
+      "fname": "Avni",
+      "lname": "Gupta",
+      "uname": "AvniGupta",
+      "email": "a@gmail.com",
+      "password": "Anu@1234",
+      "confirm": "Anu@1234",
+      "id": 7
+    }
+  ]
+}
